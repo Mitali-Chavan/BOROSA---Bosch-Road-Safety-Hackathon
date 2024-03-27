@@ -24,13 +24,13 @@ The rider's safety is assured through a radar display and audible alerts, which 
 
 # Benefits
 
-1)Enhanced Rider Safety
+1) Enhanced Rider Safety
 
-2)Improved Situational Awareness
+2) Improved Situational Awareness
 
-3)Reduced Risk of Collisions
+3) Reduced Risk of Collisions
 
-4)Minimal Distraction
+4) Minimal Distraction
 
 # Architecture
 
