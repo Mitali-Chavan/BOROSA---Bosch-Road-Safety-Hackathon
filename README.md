@@ -22,7 +22,7 @@ normal driving)
 
 The rider's safety is assured through a radar display and audible alerts, which promptly signal the presence of objects or vehicles within a 1.5-meter range. This system provides real-time visual cues and auditory warnings, ensuring heightened situational awareness for the rider in a concise and professional manner.
 
-#Benefits
+# Benefits
 
 1)Enhanced Rider Safety
 
@@ -32,7 +32,7 @@ The rider's safety is assured through a radar display and audible alerts, which 
 
 4)Minimal Distraction
 
-#Architecture
+# Architecture
 
 ![WhatsApp Image 2024-03-27 at 9 54 25 PM](https://github.com/Mitali-Chavan/BOROSA---Bosch-Road-Safety-Hackathon/assets/162993032/9b2a3358-0804-47c2-b00d-5480c5e615d0)
 
